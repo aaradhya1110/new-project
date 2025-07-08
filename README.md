@@ -7,7 +7,7 @@ Text Classification is one of the basic and most important task of Natural Langu
   * RNN
   * LSTM
   * LSTM + Attention
-  * Self Attention
+  * Self Attention.
   * CNN
   * RCNN
 
